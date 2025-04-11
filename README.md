@@ -32,19 +32,20 @@ pip install opencv-python cvzone numpy
 
 python hand_tracking.py
 
-
+---
 
 ## Exit 
 
 Press `q` to exit the application.
 
+---
 
 ##Video Demo
 
 
 https://github.com/user-attachments/assets/7bc17dfe-61a6-46aa-831b-c9b3fae2b722
 
-
+---
 
 
 
